@@ -19,8 +19,8 @@ def variance(data):
 
     Example: variance([1,5]) is ((1-3)**2 + (5-3)**2)/2 = 4.
 
-    :param data: list of numbers for which variance will be computed. 
-    Must contain at least one element.
+    :param data: list of numbers for which variance will be computed.
+        Must contain at least one element.
     :returns: population variance of values in data list.
     :raises ValueError: if the data parameter is empty.
 
