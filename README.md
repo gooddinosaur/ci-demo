@@ -1,7 +1,7 @@
 Continuous Integration Demo
 ===========================
-[![Run unit tests](https://github.com/gooddinosaur/ci-demo/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/gooddinosaur/ci-demo/actions/workflows/python-app.yml)
-[![Fix the style errors by flake8](https://github.com/gooddinosaur/ci-demo/actions/workflows/style-checking.yml/badge.svg)](https://github.com/gooddinosaur/ci-demo/actions/workflows/style-checking.yml)
+![Run unit tests](https://github.com/gooddinosaur/ci-demo/actions/workflows/python-app.yml/badge.svg?branch=master)
+![Fix style errors](https://github.com/gooddinosaur/ci-demo/actions/workflows/style-checking.yml/badge.svg)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
