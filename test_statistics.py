@@ -1,3 +1,9 @@
+"""
+Unit tests for average, variance, and standard deviation functions.
+
+Includes typical, negative, mixed, and decimal values, plus edge cases.
+"""
+
 from unittest import TestCase
 from statistics import variance, stdev, average
 from math import sqrt
