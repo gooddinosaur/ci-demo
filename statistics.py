@@ -33,7 +33,6 @@ def variance(data):
     >>> variance([1000000, 1000004])
     4.0
     """
-    # ugly code.
     n = len(data)
     if n == 0:
         raise ValueError("List must contain at least one value")
