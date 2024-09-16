@@ -67,6 +67,7 @@ class VarianceTest(TestCase):
     def test_variance_single_value(self):
         """Variance of a single value should be zero."""
         self.assertAlmostEqual(0.0, variance([1]))
+        self.assertAlmostEqual(0.0, variance([2]))
 
     def test_variance_empty_list(self):
         """Average should raise ValueError for an empty list."""
