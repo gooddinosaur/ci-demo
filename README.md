@@ -2,7 +2,6 @@ Continuous Integration Demo
 ===========================
 ![Run unit tests](https://github.com/gooddinosaur/ci-demo/actions/workflows/python-app.yml/badge.svg?branch=master)
 ![Fix style errors](https://github.com/gooddinosaur/ci-demo/actions/workflows/style-checking.yml/badge.svg)
-[![Coverage test](https://github.com/gooddinosaur/ci-demo/actions/workflows/coverage-test.yml/badge.svg)](https://github.com/gooddinosaur/ci-demo/actions/workflows/coverage-test.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
